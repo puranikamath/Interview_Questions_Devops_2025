@@ -23,4 +23,5 @@ Write a shell script that provides a menu-driven interface for commonly used Git
 write a scrpit delete the recent 10 text files
 Write a script to monitor services, if any service is stopeed , restart the service
 find and delete the lareg files that are greater than 100Mb,that are created 90 days ago and send a mail to the concerned client
-
+Reverse the content of file
+Script to check the number of .log files in the system and to delete the .log files under /var which were modified in the last 90 days and 15 days ago.
