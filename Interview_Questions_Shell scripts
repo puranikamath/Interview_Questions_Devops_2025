@@ -10,3 +10,13 @@ Answer : :can modify the .bashrc or .bash_profile file
 4. how would you design shell script to interact with these platform nd deploy appln scales services and performance rolling update
 5.  write script to turn of aws ec2 instances at 5pm and turn on in morning 8am everyday
 6. write script to delete all empty files under a directory 
+Write a shell script that provides a menu-driven interface for commonly used Git commands. The script should allow users to:
+	1.	Clone a repository.
+	2.	Pull the latest changes from the current branch.
+	3.	List all branches (local and remote).
+	4.	Create and switch to a new branch.
+	5.	Commit all changes with a user-provided message.
+	6.	Display the current repository’s status.
+	7.	Revert to a specific commit by its hash.
+	8.	Show details of the last commit.
+	9.	Fetch updates from the remote rep
