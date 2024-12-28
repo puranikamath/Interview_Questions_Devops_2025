@@ -20,4 +20,4 @@ Write a shell script that provides a menu-driven interface for commonly used Git
 	7.	Revert to a specific commit by its hash.
 	8.	Show details of the last commit.
 	9.	Fetch updates from the remote rep
-write a scrpit delete the recent text files
+write a scrpit delete the recent 10 text files
