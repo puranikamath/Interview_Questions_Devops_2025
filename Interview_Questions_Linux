@@ -9,3 +9,18 @@ differnce b/w softlink and hardlink
 how to figure out which crone job chokes up your system in linux and describe process to fix it (how do you identify which crone job is responsible for which process)
 ANS:/var/log/cron
 why mounting is used?
+how do you check permisstion of file or dicrectory
+how do you set up password less connection between two servers
+how to check in the remote servers portis open or not
+what is the use of ps -ef
+what is the deiffrence between soft and hard link
+how do you chnage the ownership of file or dirctory
+what is the of df -h and du -h
+what is the diffrence between scp and rsync command
+can u pls list out UDP and TCP ports only
+what is use case of sed and aws and grep command
+how to delete derictory
+what is the diffrence between mkdir and mkdir -p
+how do you check the current server spcific port is open or not
+list out all basic commands
+what is the use of ls -a
